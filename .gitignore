@@ -1,6 +1,3 @@
-# Ignorar a pasta temporária
-/tmp/
+secrets.env
 
-# Ignorar arquivos que contenham a chave de API
-*.env
-config/secrets.yml
+temp_files\
